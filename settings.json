@@ -1,0 +1,8 @@
+{
+    "clientId": "<required>",
+    "clientCertificate": "CN=<Update with certificate CN>", 
+    "tenantId": "<required>",
+    "AusCERT_XML_URL": "https://auscert.org.au/api/v1/malurl/",
+    "AusCERT_API_KEY": "api_key",
+    "AusCERT_Daily": "true"
+}
